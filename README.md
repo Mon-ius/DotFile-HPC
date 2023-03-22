@@ -1,5 +1,7 @@
 # DotFile-HPC
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > A fast shell script to leverage R&D on HPC just at $HOME
 
 Without `sudo` permission; Support `fish`, `zsh` with native local compile, provide an out-of-the-box environment for AI Development on `amd64`, `aarch64`, and `ppcle-64` machine;
@@ -23,3 +25,5 @@ Main installed features:
 - PatrickF1/fzf.fish
 - bang-bang
 - starship
+
+![visitor](https://count.getloli.com/get/@dotfile-hpc?theme=moebooru)
