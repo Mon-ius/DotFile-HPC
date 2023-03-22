@@ -2,7 +2,7 @@
 
 > A fast shell script to leverage R&D on HPC just at $HOME
 
-Support `fish`;
+Without `sudo` permission; Support `fish`, `zsh` with native local compile, provide an out-of-the-box environment for AI Development on `amd64`, `aarch64`, and `ppcle-64` machine;
 
 ## Project Mission
 
