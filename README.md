@@ -4,7 +4,7 @@
 
 > A fast shell script to leverage R&D on HPC just at $HOME
 
-Without `sudo` permission; Support `fish`, `zsh` with native local compile, provide an out-of-the-box environment for AI Development on `amd64`, `aarch64`, and `ppcle-64` machine;
+Without `sudo` permission; Support `fish`, `zsh` with native local compile; Providing an out-of-the-box environment for AI Development with essential software pre-configured on `amd64`, `aarch64`, and `ppcle-64` machine;
 
 ## Project Mission
 
@@ -16,14 +16,34 @@ Our goal is to help PhD students, researchers, open-source contributors and ente
 curl -fsSL https://bit.ly/hpc-dot-dev | bash
 ```
 
-## Fish
+## Unix Shell
 
-Main installed features:
+### Fish
+
+#### Main installed features
 
 - omf
 - jorgebucaran/fisher
 - PatrickF1/fzf.fish
 - bang-bang
 - starship
+
+### Zsh
+
+#### Main installed features
+
+- oh-my-zsh
+
+## Software for R&D
+
+### Science Computation
+
+#### Python
+
+- Anaconda
+
+### Large Data Transmission
+
+#### Aria2
 
 ![visitor](https://count.getloli.com/get/@dotfile-hpc?theme=moebooru)
